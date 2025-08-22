@@ -3,8 +3,7 @@
 #include<stdio.h>
 
 int main() {
-    int a;
-    a = 1006;
+    int a = 1006;
 
     int b = 2006;
 
