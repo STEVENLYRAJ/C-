@@ -5,11 +5,8 @@
 #include <stdio.h>
 
 int main() {
-    int a = 4605;
-    int b = 95434;
-    int c = 12345;
+    char ch = 'a';
+    printf("The character is %c", ch);
 
-    printf("The value is %d\n", a*b/c + 7896);
-    printf("The value is %d", 465444*b/2*566 + 453*a);
     return 0;
 }
